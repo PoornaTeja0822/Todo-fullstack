@@ -2,7 +2,8 @@
 
 This is a **full stack Todo application** built with **React**, **Node.js**, **Express**, and **MySQL**. It allows users to register, log in, add tasks, mark them as complete, and delete tasks — all while persisting data securely on the backend.
 
----
+## 🔗 Live Demo
+[Live Demo](https://todo-fullstack-amae.vercel.app/) 
 
 ## 🚀 Features
 
